@@ -1,0 +1,19 @@
+<main>
+    <section>
+      <h1>Upcoming Events</h1>
+  
+      <article>
+        <h2>Pescatarian Food Festival</h2>
+        <p>Date: April 20, 2025</p>
+        <p>Description: Join us for an unforgettable Day of incredible food!</p>
+        <img src="images/concert.jpg" alt="Food Festival">
+      </article>
+  
+      <article>
+        <h2>The Baked Goods Show</h2>
+        <p>Date: May 15, 2025</p>
+        <p>Description: A riveting sowcase of confectionary goods from all over the world!</p>
+        <img src="images/play.jpg" alt="The Baked Goods Show">
+      </article>
+    </section>
+  </main>
