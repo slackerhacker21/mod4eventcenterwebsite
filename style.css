@@ -1,0 +1,65 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  padding: 15px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* hero section */
+.hero {
+  background-image: url('../images/hero.jpg');
+  text-align: center;
+  color: white;
+  padding: 50px 0;
+}
+
+/* table styles */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+/* responsive design */
+@media (max-width: 768px) {
+  nav ul {
+      display: block;
+      text-align: center;
+  }
+
+  nav ul li {
+      display: block;
+      margin-bottom: 10px;
+  }
+}
