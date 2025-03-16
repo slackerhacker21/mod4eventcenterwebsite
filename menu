@@ -1,0 +1,36 @@
+<main>
+    <section>
+      <h1>Menu</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Item</th>
+            <th>Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Appetizers</td>
+            <td>Spring Rolls</td>
+            <td>$5.99</td>
+          </tr>
+          <tr>
+            <td>Appetizers</td>
+            <td>Stuffed Mushrooms</td>
+            <td>$6.99</td>
+          </tr>
+          <tr>
+            <td>Mains</td>
+            <td>Grilled Chicken</td>
+            <td>$15.99</td>
+          </tr>
+          <tr>
+            <td>Mains</td>
+            <td>Steak</td>
+            <td>$25.99</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
