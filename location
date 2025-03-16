@@ -1,0 +1,11 @@
+<!-- location.html (Location Page) -->
+<main>
+    <section>
+      <h1>Our Location</h1>
+      <p>7316 Bay Parkway Brooklyn, NY 11204</p>
+      <p>Hours: 10 AM - 10 PM</p>
+      <p>Nearby Landmarks: Seth Low Park</p>
+      <iframe src="https://www.google.com/maps/place/Seth+Low+Playground/@40.6081113,-73.9888836,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2451ce75029a7:0x8ee3344294cbe7bd!8m2!3d40.6081073!4d-73.9863087!16s%2Fg%2F11bwwl93zx?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D"></iframe>
+    </section>
+  </main>
+  
